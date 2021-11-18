@@ -53,7 +53,7 @@ var ThemeRoutes = [
 
   {
     path: '/ui-components/Listdemandechequier',
-    name: 'demande chequier',
+    name: 'Liste demande chequier',
     icon: 'mdi mdi-file-chart',
     component: Listdemandechequier
   },

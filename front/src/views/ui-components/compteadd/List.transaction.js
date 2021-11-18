@@ -77,7 +77,7 @@ const Listetransaction = () => {
       },
       {
         dataField: 'crated_at',
-        text: 'Date creation compte',
+        text: 'Date Transaction',
         filter: textFilter(),
         formatter:Datecreation
       }
