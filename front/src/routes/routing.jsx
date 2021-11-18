@@ -58,45 +58,45 @@ var ThemeRoutes = [
     component: Listdemandechequier
   },
   
-  {
-    path: '/ui-components/button',
-    name: 'Act3',
-    icon: 'mdi mdi-toggle-switch',
-    component: Buttons
-  },
-  {
-    path: '/ui-components/card',
-    name: 'Act5',
-    icon: 'mdi mdi-credit-card-multiple',
-    component: Cards
-  },
-  {
-    path: '/ui-components/layout',
-    name: 'Act6',
-    icon: 'mdi mdi-apps',
-    component: LayoutComponent
-  },
-  {
-    path: '/ui-components/pagination',
-    name: 'Act7',
+  // {
+  //   path: '/ui-components/button',
+  //   name: 'Act3',
+  //   icon: 'mdi mdi-toggle-switch',
+  //   component: Buttons
+  // },
+  // {
+  //   path: '/ui-components/card',
+  //   name: 'Act5',
+  //   icon: 'mdi mdi-credit-card-multiple',
+  //   component: Cards
+  // },
+  // {
+  //   path: '/ui-components/layout',
+  //   name: 'Act6',
+  //   icon: 'mdi mdi-apps',
+  //   component: LayoutComponent
+  // },
+  // {
+  //   path: '/ui-components/pagination',
+  //   name: 'Act7',
 
-    icon: 'mdi mdi-priority-high',
-    component: PaginationComponent
-  },
-  {
-    path: '/ui-components/popover',
-    name: 'Act8',
+  //   icon: 'mdi mdi-priority-high',
+  //   component: PaginationComponent
+  // },
+  // {
+  //   path: '/ui-components/popover',
+  //   name: 'Act8',
 
-    icon: 'mdi mdi-pencil-circle',
-    component: PopoverComponent
-  },
-  {
-    path: '/ui-components/tooltip',
-    name: 'Act9',
+  //   icon: 'mdi mdi-pencil-circle',
+  //   component: PopoverComponent
+  // },
+  // {
+  //   path: '/ui-components/tooltip',
+  //   name: 'Act9',
 
-    icon: 'mdi mdi-image-filter-vintage',
-    component: TooltipComponent
-  },
+  //   icon: 'mdi mdi-image-filter-vintage',
+  //   component: TooltipComponent
+  // },
   {
     path: '/',
     pathTo: '/starter/starter',
