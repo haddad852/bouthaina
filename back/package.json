@@ -1,0 +1,52 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.0.0",
+    "digital-link.js": "^1.2.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "express-session": "^1.17.1",
+    "express-sse": "^0.5.3",
+    "firebase-admin": "^10.0.0",
+    "formidable": "^1.2.2",
+    "googleapis": "^67.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.15",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.17",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1",
+    "qrcode": "^1.4.4",
+    "role-acl": "^4.5.4",
+    "sendmail": "^1.6.1",
+    "swagger-jsdoc": "^7.0.0-rc.6",
+    "swagger-ui-express": "^4.1.6",
+    "twilio": "^3.54.1",
+    "uuid": "^8.3.2",
+    "xoauth2": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "prettier": "2.2.1"
+  }
+}
